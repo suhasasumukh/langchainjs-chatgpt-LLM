@@ -11,3 +11,9 @@ Now supports gpt-3.5 and gpt-4!
 5. Run index.js, and start playing around with it!
 
 LLM Gen Template by:- <a href="https://github.com/Conner1115">IroncladDev</a>
+
+## Overview of this Model
+
+LangChain LLM template, you have full control over the training process, allowing you to fine-tune your model to suit your specific needs and applications. Whether you're looking to create a language model that generates creative content, provides intelligent recommendations, or assists with complex tasks, this template offers the flexibility to mold the AI model to your requirements.
+
+By utilizing gpt-3.5 or gpt-4, you benefit from state-of-the-art language processing capabilities, enabling your custom AI model to deliver unparalleled performance. Seamlessly integrate the LangChain LLM template into your projects, applications, or research endeavors, and witness the remarkable outcomes of your trained AI model.
