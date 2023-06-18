@@ -28,7 +28,11 @@ The template's flexibility allows for training on diverse datasets, enabling the
 
 <p>⊛ Clone the repository: </p>
 ```bash
-git clone https://github.com/suhasasumukh/langchainjs-chatgpt-LLM.git
+https://github.com/suhasumukh/AI-Chess
+```
+To Run this program
+```bash
+Download the repository, Extract the zip file, Open MainAI folder and run index.html
 ```
 <p>⊛ Install the required dependencies: npm install</p>
 <p>⊛ Configure the model parameters and settings as per your requirements.</p>
