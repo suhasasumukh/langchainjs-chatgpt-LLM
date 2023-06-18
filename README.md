@@ -21,3 +21,12 @@ By utilizing gpt-3.5 or gpt-4, you benefit from state of the art language proces
 ## What is it capable of doing?
 
 The template's flexibility allows for training on diverse datasets, enabling the customization of models for specific use cases. It can be applied to chatbots, virtual assistants, language translation, sentiment analysis, content generation, and much more. Developers can fine tune the models to optimize performance and align with their desired outcomes.
+
+## Getting Started
+<br>
+<p>To get started with LangChainJS ChatGPT LLM, follow these steps:</p>
+
+⊛ Clone the repository: `git clone https://github.com/suhasasumukh/langchainjs-chatgpt-LLM.git`
+⊛ Install the required dependencies: `npm install`
+⊛ Configure the model parameters and settings as per your requirements.
+⊛ Run the application: `npm start`
