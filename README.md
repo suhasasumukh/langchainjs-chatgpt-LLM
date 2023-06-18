@@ -26,10 +26,10 @@ The template's flexibility allows for training on diverse datasets, enabling the
 <br>
 <p>To get started with LangChainJS ChatGPT LLM, follow these steps:</p>
 
-<p>⊛ Clone the repository: 
+<p>⊛ Clone the repository: </p>
   ```bash
   git clone https://github.com/suhasasumukh/langchainjs-chatgpt-LLM.git
-  ```</p>
+  ```
 <p>⊛ Install the required dependencies: npm install</p>
 <p>⊛ Configure the model parameters and settings as per your requirements.</p>
 <p>⊛ Run the application: npm start</p>
