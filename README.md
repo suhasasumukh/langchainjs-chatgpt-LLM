@@ -10,7 +10,7 @@ Now supports gpt-3.5 and gpt-4!
 4. Modify the base prompt in `lib/basePrompt.js`
 5. Run index.js, and start playing around with it!
 
-Template by:- <a href="https://github.com/Conner1115">IroncladDev</a>
+Template by:- IroncladDev
 
 ## Overview of this Model
 
