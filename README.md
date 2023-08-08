@@ -10,7 +10,7 @@ Now supports gpt-3.5 and gpt-4!
 4. Modify the base prompt in `lib/basePrompt.js`
 5. Run index.js, and start playing around with it!
 
-LLM Gen Template by:- <a href="https://github.com/Conner1115">IroncladDev</a>
+Template by:- <a href="https://github.com/Conner1115">IroncladDev</a>
 
 ## Overview of this Model
 
