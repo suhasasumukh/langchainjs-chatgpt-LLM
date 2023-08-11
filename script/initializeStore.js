@@ -24,6 +24,7 @@ pineconeIndex = client.Index(process.env.PINECONE_INDEX);
 }
 
 
+
 const data = [];
 const pdfs = await new Promise((resolve, reject) =>
   glob("training/**/*.pdf", (err, files) => err ? reject(err) : resolve(files))
