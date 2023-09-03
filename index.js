@@ -2,7 +2,6 @@ import generateResponse from "./lib/generateResponse.js";
 import promptSync from 'prompt-sync';
 
 const prompt = promptSync();
-
 const conversationHistory = [];
 
 while (true) {
