@@ -7,7 +7,7 @@ import { PineconeStore } from "langchain/vectorstores/pinecone";
 import { Document } from "langchain/document";
 import { OpenAIEmbeddings } from 'langchain/embeddings/openai';
 import { config } from 'dotenv';
-// cli runner
+// runner for cli
 import { execSync } from 'child_process';
 
 config();
