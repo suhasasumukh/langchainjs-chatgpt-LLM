@@ -9,7 +9,8 @@
     pkgs.yarn
     pkgs.replitPackages.jest
 	];
-  env = {
+  
+env = {
     PYTHON_LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [
       # Needed for pandas / numpy
       pkgs.stdenv.cc.cc.lib
