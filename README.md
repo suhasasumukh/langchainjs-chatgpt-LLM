@@ -11,8 +11,6 @@ Now supports gpt-3.5 and gpt-4!
 4. Modify the base prompt in `lib/basePrompt.js`
 5. Run index.js, and start playing around with it!
 
-Template by:- IroncladDev
-
 ## Overview of this Model
 
 LangChain LLM template, you have full control over the training process, allowing you to fine-tune your model to suit your specific needs and applications. Whether you're looking to create a language model that generates creative content, provides intelligent recommendations, or assists with complex tasks, this template offers the flexibility to mold the AI model to your requirements.
