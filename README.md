@@ -3,7 +3,6 @@
 This is a LangChain LLM template that allows you to train your custom AI model on any data you want.
 Now supports gpt-3.5 and gpt-4!
 
-
 ## Setup
 1. Provide all the information you want your LLM to be trained on in the `training` directory in markdown files.  Folder depth doesn't matter.
 2. Add your OpenAI API key in environment vars via the kay `OPENAI_API_KEY`.
@@ -34,7 +33,6 @@ git clone https://github.com/suhasasumukh/langchainjs-chatgpt-LLM.git
 ```bash
 npm install
 ```
-
 #### Configure the model parameters and settings as per your requirements
 
 #### Run the application:
